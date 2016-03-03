@@ -1,7 +1,7 @@
 ## Title: Advanced Filters - Item Saver Filters
 ## Author: Randactyl
-## Version: 1.1.0.3
-## APIVersion: 100012
+## Version: 1.1.0.4
+## APIVersion: 100014
 ## DependsOn: AdvancedFilters ItemSaver
 
 AF_ItemSaverFilters.lua
